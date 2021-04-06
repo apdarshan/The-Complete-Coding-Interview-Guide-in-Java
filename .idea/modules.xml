@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaAbstractClass/AbstractionViaAbstractClass.iml" filepath="$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaAbstractClass/AbstractionViaAbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaInterface/AbstractionViaInterface.iml" filepath="$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaInterface/AbstractionViaInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Aggregation/Aggregation.iml" filepath="$PROJECT_DIR$/Chapter06/Aggregation/Aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Association/Association.iml" filepath="$PROJECT_DIR$/Chapter06/Association/Association.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/CircularByteBuffer/CircularByteBuffer.iml" filepath="$PROJECT_DIR$/Chapter06/CircularByteBuffer/CircularByteBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Polymorphism/CompileTime/CompileTime.iml" filepath="$PROJECT_DIR$/Chapter06/Polymorphism/CompileTime/CompileTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Composition/Composition.iml" filepath="$PROJECT_DIR$/Chapter06/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/CovariantMethodOverriding/CovariantMethodOverriding.iml" filepath="$PROJECT_DIR$/Chapter06/CovariantMethodOverriding/CovariantMethodOverriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/DeckOfCards/DeckOfCards.iml" filepath="$PROJECT_DIR$/Chapter06/DeckOfCards/DeckOfCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/DependencyInversionPrinciple/DependencyInversionPrinciple.iml" filepath="$PROJECT_DIR$/Chapter06/DependencyInversionPrinciple/DependencyInversionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Chapter06/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/FileSystem/FileSystem.iml" filepath="$PROJECT_DIR$/Chapter06/FileSystem/FileSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/Chapter06/HashTable/HashTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Chapter06/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" filepath="$PROJECT_DIR$/Chapter06/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Java8DefaultStaticMethods/Java8DefaultStaticMethods.iml" filepath="$PROJECT_DIR$/Chapter06/Java8DefaultStaticMethods/Java8DefaultStaticMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Jukebox/Jukebox.iml" filepath="$PROJECT_DIR$/Chapter06/Jukebox/Jukebox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/Chapter06/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/MethodHiding/MethodHiding.iml" filepath="$PROJECT_DIR$/Chapter06/MethodHiding/MethodHiding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/MethodOverloding/MethodOverloding.iml" filepath="$PROJECT_DIR$/Chapter06/MethodOverloding/MethodOverloding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/MethodOverriding/MethodOverriding.iml" filepath="$PROJECT_DIR$/Chapter06/MethodOverriding/MethodOverriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/MovieTicketBooking/MovieTicketBooking.iml" filepath="$PROJECT_DIR$/Chapter06/MovieTicketBooking/MovieTicketBooking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/OnlineReaderSystem/OnlineReaderSystem.iml" filepath="$PROJECT_DIR$/Chapter06/OnlineReaderSystem/OnlineReaderSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/OpenClosedPrinciple/OpenClosedPrinciple.iml" filepath="$PROJECT_DIR$/Chapter06/OpenClosedPrinciple/OpenClosedPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/OverloadingException/OverridingException (1).iml" filepath="$PROJECT_DIR$/Chapter06/OverloadingException/OverridingException (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/OverridingException/OverridingException (2).iml" filepath="$PROJECT_DIR$/Chapter06/OverridingException/OverridingException (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/Chapter06/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Polymorphism/Runtime/Runtime.iml" filepath="$PROJECT_DIR$/Chapter06/Polymorphism/Runtime/Runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" filepath="$PROJECT_DIR$/Chapter06/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/Tuple/Tuple.iml" filepath="$PROJECT_DIR$/Chapter06/Tuple/Tuple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/Chapter06/VendingMachine/VendingMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-interview.iml" filepath="$PROJECT_DIR$/.idea/java-interview.iml" />
+    </modules>
+  </component>
+</project>

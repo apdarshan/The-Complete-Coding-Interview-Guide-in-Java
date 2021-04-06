@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Encapsulation" />
+        <module name="AbstractionViaInterface" />
+        <module name="MethodHiding" />
+        <module name="HashTable" />
+        <module name="CovariantMethodOverriding" />
+        <module name="DeckOfCards" />
+        <module name="InterfaceSegregationPrinciple" />
+        <module name="Inheritance" />
+        <module name="CompileTime" />
+        <module name="Java8DefaultStaticMethods" />
+        <module name="Aggregation" />
+        <module name="Runtime" />
+        <module name="Association" />
+        <module name="ParkingLot" />
+        <module name="OverridingException (2)" />
+        <module name="FileSystem" />
+        <module name="MethodOverloding" />
+        <module name="CircularByteBuffer" />
+        <module name="MovieTicketBooking" />
+        <module name="Jukebox" />
+        <module name="SingleResponsibilityPrinciple" />
+        <module name="Composition" />
+        <module name="VendingMachine" />
+        <module name="AbstractionViaAbstractClass" />
+        <module name="DependencyInversionPrinciple" />
+        <module name="OpenClosedPrinciple" />
+        <module name="MethodOverriding" />
+        <module name="OnlineReaderSystem" />
+        <module name="OverridingException (1)" />
+        <module name="Tuple" />
+        <module name="LiskovSubstitutionPrinciple" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AbstractionViaAbstractClass" target="13" />
+      <module name="AbstractionViaInterface" target="13" />
+      <module name="Aggregation" target="13" />
+      <module name="Association" target="13" />
+      <module name="CircularByteBuffer" target="13" />
+      <module name="CompileTime" target="13" />
+      <module name="Composition" target="13" />
+      <module name="CovariantMethodOverriding" target="13" />
+      <module name="DeckOfCards" target="13" />
+      <module name="DependencyInversionPrinciple" target="13" />
+      <module name="Encapsulation" target="13" />
+      <module name="FileSystem" target="13" />
+      <module name="HashTable" target="13" />
+      <module name="Inheritance" target="13" />
+      <module name="InterfaceSegregationPrinciple" target="13" />
+      <module name="Java8DefaultStaticMethods" target="13" />
+      <module name="Jukebox" target="13" />
+      <module name="LiskovSubstitutionPrinciple" target="13" />
+      <module name="MethodHiding" target="13" />
+      <module name="MethodOverloding" target="13" />
+      <module name="MethodOverriding" target="13" />
+      <module name="MovieTicketBooking" target="13" />
+      <module name="OnlineReaderSystem" target="13" />
+      <module name="OpenClosedPrinciple" target="13" />
+      <module name="OverridingException (1)" target="13" />
+      <module name="OverridingException (2)" target="13" />
+      <module name="ParkingLot" target="13" />
+      <module name="Runtime" target="13" />
+      <module name="SingleResponsibilityPrinciple" target="13" />
+      <module name="Tuple" target="13" />
+      <module name="VendingMachine" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

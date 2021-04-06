@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaAbstractClass/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Aggregation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Association/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/CircularByteBuffer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Composition/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/CovariantMethodOverriding/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/DeckOfCards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/DependencyInversionPrinciple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Encapsulation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/FileSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/HashTable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Inheritance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/InterfaceSegregationPrinciple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Java8DefaultStaticMethods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Jukebox/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/LiskovSubstitutionPrinciple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/MethodHiding/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/MethodOverloding/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/MethodOverriding/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/MovieTicketBooking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/OnlineReaderSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/OpenClosedPrinciple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/OverloadingException/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/OverridingException/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/ParkingLot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Polymorphism/CompileTime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Polymorphism/Runtime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/SingleResponsibilityPrinciple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/Tuple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter06/VendingMachine/src/main/java" charset="UTF-8" />
+  </component>
+</project>

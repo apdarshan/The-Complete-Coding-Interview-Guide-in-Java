@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaInterface/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaAbstractClass/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Aggregation/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/VendingMachine/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Tuple/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/SingleResponsibilityPrinciple/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Polymorphism/Runtime/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Polymorphism/CompileTime/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/ParkingLot/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/OverridingException/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/OverloadingException/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/OpenClosedPrinciple/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/OnlineReaderSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/MovieTicketBooking/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/MethodOverriding/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/MethodOverloding/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/MethodHiding/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/LiskovSubstitutionPrinciple/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Jukebox/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Java8DefaultStaticMethods/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/InterfaceSegregationPrinciple/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Inheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/HashTable/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/FileSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Encapsulation/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/DependencyInversionPrinciple/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/DeckOfCards/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/CovariantMethodOverriding/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Composition/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/CircularByteBuffer/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06/Association/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="corretto-15" project-jdk-type="JavaSDK" />
+</project>
