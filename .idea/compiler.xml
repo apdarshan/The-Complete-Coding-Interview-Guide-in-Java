@@ -6,71 +6,469 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Encapsulation" />
-        <module name="AbstractionViaInterface" />
-        <module name="MethodHiding" />
         <module name="HashTable" />
-        <module name="CovariantMethodOverriding" />
-        <module name="DeckOfCards" />
-        <module name="InterfaceSegregationPrinciple" />
+        <module name="LinkedListLoopDetection" />
+        <module name="Coins" />
         <module name="Inheritance" />
-        <module name="CompileTime" />
-        <module name="Java8DefaultStaticMethods" />
-        <module name="Aggregation" />
+        <module name="OnceTwiceThrice" />
+        <module name="ReplaceElementWithRank" />
+        <module name="MultiplyingBinaries" />
+        <module name="RotateMatrix" />
+        <module name="ExtractIntegers" />
+        <module name="OneEditAway" />
         <module name="Runtime" />
+        <module name="MethodOverloding" />
+        <module name="RotateArrayKTimes" />
+        <module name="LinkedListRemoveRedundantPath" />
+        <module name="MovieTicketBooking" />
+        <module name="StackOfPlates" />
+        <module name="AbstractionViaAbstractClass" />
+        <module name="CountDistinctInSubarray" />
+        <module name="MultiplyLargeNumbers" />
+        <module name="DependencyInversionPrinciple" />
+        <module name="DuplicatesInArray" />
+        <module name="PeaksAndValleys" />
+        <module name="DividingBinaries" />
+        <module name="HanoiTowers" />
+        <module name="SortStackInPlace" />
+        <module name="CheckEquality" />
+        <module name="BinarySearchTreeTraversal" />
+        <module name="BinaryTreePrintCorners" />
+        <module name="EncodedString" />
+        <module name="SubtractingBinaries" />
+        <module name="LongestDistinctSubstring" />
+        <module name="TwoNonRepeating" />
+        <module name="SearchInFullSortedMatrix" />
+        <module name="CompileTime" />
+        <module name="BinaryTreeCommonAncestor" />
+        <module name="KnightTour" />
         <module name="Association" />
         <module name="ParkingLot" />
-        <module name="OverridingException (2)" />
-        <module name="FileSystem" />
-        <module name="MethodOverloding" />
+        <module name="ThreeStacksInOneArrayFixed" />
         <module name="CircularByteBuffer" />
-        <module name="MovieTicketBooking" />
-        <module name="Jukebox" />
-        <module name="SingleResponsibilityPrinciple" />
-        <module name="Composition" />
-        <module name="VendingMachine" />
-        <module name="AbstractionViaAbstractClass" />
-        <module name="DependencyInversionPrinciple" />
+        <module name="StockSpan" />
+        <module name="Deadlock" />
+        <module name="MagicIndex" />
+        <module name="LinkedListPairwiseSwap" />
+        <module name="BreakChocolate" />
+        <module name="RunnableAndCallable" />
+        <module name="NumberWithOneInLR" />
+        <module name="ContainerMostWater" />
+        <module name="Abcd" />
+        <module name="SortArrayBasedOnAnotherArray" />
+        <module name="DeckOfCards" />
+        <module name="ExtractSurrogatePairs" />
+        <module name="TestingExceptions (2)" />
+        <module name="PythagoreanTriplets" />
+        <module name="RectangleOverlap" />
+        <module name="SortQueueWithoutExtraSpace" />
+        <module name="MatrixWithZeros" />
+        <module name="LinkedListRemoveDuplicates" />
+        <module name="LinkedListSum" />
+        <module name="TestSuite (2)" />
+        <module name="FileSystem" />
+        <module name="SubsetSum" />
+        <module name="BinarySearchTreeSuccessor" />
+        <module name="ProducerConsumerWaitNotify" />
+        <module name="MyStack" />
+        <module name="BestTimeToBuySellStock" />
+        <module name="VisitToggle100Doors" />
+        <module name="BinarySearch" />
+        <module name="KthNumber357" />
         <module name="OpenClosedPrinciple" />
-        <module name="MethodOverriding" />
+        <module name="BinaryTreeDistanceFromLeaf" />
+        <module name="BinaryTreeSpiralTraversal" />
+        <module name="LRUCache" />
+        <module name="DirectedGraphPath" />
+        <module name="TestSuite (1)" />
+        <module name="DoublyLinkedListReverse" />
+        <module name="LinkedListsIntersection" />
+        <module name="GroupSortAnagrams" />
+        <module name="CountScore3510" />
+        <module name="ReplaceBits" />
+        <module name="SortArraysIn14Ways" />
+        <module name="NumberDivisibleDigits" />
+        <module name="NextNumber" />
+        <module name="GraphTopologicalSort" />
+        <module name="MethodHiding" />
+        <module name="SinglyLinkedList" />
+        <module name="BinaryTreeSubtree" />
+        <module name="StackViaQueue" />
+        <module name="MyQueue" />
+        <module name="FindPairsSumEqualK" />
+        <module name="LinkedListMergeNSortedRecursion" />
+        <module name="MergeTwoSortedArrays" />
+        <module name="InterfaceSegregationPrinciple" />
+        <module name="RobotGridAllPaths" />
+        <module name="FindDuplicates" />
+        <module name="StackHistogramArea" />
+        <module name="Java8DefaultStaticMethods" />
+        <module name="Staircase" />
+        <module name="RedBlackTreeImpl" />
+        <module name="LongestSequence" />
+        <module name="MaxHeap" />
+        <module name="SmallestNumber" />
+        <module name="LinkedListMergeTwoSorted" />
+        <module name="SinglyLinkedListOneHead" />
+        <module name="DoublyLinkedListOneHead" />
+        <module name="Composition" />
+        <module name="ListPerBinaryTreeLevel" />
+        <module name="BinaryTreeLandingReservation" />
+        <module name="ExecutorAndExecutorService" />
+        <module name="MergeSortDoublyLinkedList" />
+        <module name="BinaryTreeTraversal" />
+        <module name="NextElementSameDigits" />
+        <module name="TestingExceptions (1)" />
+        <module name="SummingBinaries" />
         <module name="OnlineReaderSystem" />
-        <module name="OverridingException (1)" />
-        <module name="Tuple" />
+        <module name="ProducerConsumerQueue" />
+        <module name="MaxDiffBetweenTwoElements" />
+        <module name="HourMinuteAngle" />
+        <module name="PositionOfFirstOne" />
+        <module name="ArrangeActAssert" />
+        <module name="NestedTests" />
         <module name="LiskovSubstitutionPrinciple" />
+        <module name="MedianOfSortedArrays" />
+        <module name="MergeSortSinglyLinkedList" />
+        <module name="WordBreak" />
+        <module name="TestFactory" />
+        <module name="LinkedListMergeTwoSortedRecursion" />
+        <module name="QueueIslands" />
+        <module name="BeforeAfterAnnotations (2)" />
+        <module name="SingleResponsibilityPrinciple" />
+        <module name="PetrolBunks" />
+        <module name="BinarySearchTreeSum" />
+        <module name="ColorSpots" />
+        <module name="CountDistinctAbsoluteSortedArray" />
+        <module name="LongestConsecutiveSequence" />
+        <module name="TheFallingBall" />
+        <module name="IsSymmetricBinaryTree" />
+        <module name="TrapRainWater" />
+        <module name="CancelThread" />
+        <module name="ReverseLinkedListInGroups" />
+        <module name="RotateString" />
+        <module name="ShortestSafeRoute" />
+        <module name="StackReverseString" />
+        <module name="PositionOfFirstBitOfOne" />
+        <module name="AVLTreeImpl" />
+        <module name="HeapConnectRopes" />
+        <module name="BeforeAfterAnnotations (1)" />
+        <module name="RotateBits" />
+        <module name="Map" />
+        <module name="Encapsulation" />
+        <module name="UniqueCharactersAZ" />
+        <module name="WordSearch" />
+        <module name="LinkedListMoveLastToFront" />
+        <module name="LinkedListPalindrome" />
+        <module name="BinaryTreeIsBST" />
+        <module name="MirrorBinaryTree" />
+        <module name="Aggregation" />
+        <module name="MinimumInCircularArray" />
+        <module name="GraphAdjacencyListTraversal" />
+        <module name="OverridingException (2)" />
+        <module name="HighestColoredTower" />
+        <module name="Permutations" />
+        <module name="RankInStream" />
+        <module name="Josephus" />
+        <module name="TwoBinaryTreesAreIsomorphic" />
+        <module name="MergeKSortedArr" />
+        <module name="MaximumInCircularArray" />
+        <module name="SearchInSortedMatrix" />
+        <module name="ThreeStacksInOneArray" />
+        <module name="GraphAdjacencyMatrixTraversal" />
+        <module name="OverridingException (1)" />
+        <module name="LinkedListNthToLastNode" />
+        <module name="BinarySearchTreeDuplicates" />
+        <module name="DoublyLinkedList" />
+        <module name="SortStack" />
+        <module name="ClearBits" />
+        <module name="GetBitValue" />
+        <module name="Tuple" />
+        <module name="AbstractionViaInterface" />
+        <module name="BinaryTreeBalanced" />
+        <module name="Assumptions (2)" />
+        <module name="BinaryTreeRightView" />
+        <module name="FiveTowers" />
+        <module name="NutsAndBolts" />
+        <module name="StringShrinker" />
+        <module name="MaxHeapToMinHeap" />
+        <module name="StackBraces" />
+        <module name="OddEven" />
+        <module name="InterspersedEmptyStrings" />
+        <module name="BinarySearchTreeKthLargestElement" />
+        <module name="ScheduleOneElevator" />
+        <module name="BucketSort" />
+        <module name="Assumptions (1)" />
+        <module name="MaxMatrixOfOne" />
+        <module name="MinStackConstantTime" />
+        <module name="Conversion" />
+        <module name="RomanNumbers" />
+        <module name="BinaryTreeVerticalSum" />
+        <module name="BinaryTreePrintDiagonal" />
+        <module name="ComputeModuloDivision" />
+        <module name="LinkedListRearranging" />
+        <module name="SwapOddEven" />
+        <module name="RadixSort" />
+        <module name="MergeSort" />
+        <module name="RobotGridMaze" />
+        <module name="SetBitValue" />
+        <module name="PowerSetOfSet" />
+        <module name="FindNearestMinimum" />
+        <module name="CovariantMethodOverriding" />
+        <module name="UniqueCharacters" />
+        <module name="HeapSort" />
+        <module name="UnknownSizeList" />
+        <module name="FizzBuzz" />
+        <module name="Braces" />
+        <module name="Jukebox" />
+        <module name="VendingMachine" />
+        <module name="ThreadLifecycleState" />
+        <module name="SwapTwoIntegers" />
+        <module name="MinStackConstantTimeAndSpace" />
+        <module name="SearchInCircularArray" />
+        <module name="DecodingDigitSequence" />
+        <module name="SortQueueViaTempQueue" />
+        <module name="MethodOverriding" />
+        <module name="ChessKnight" />
+        <module name="QuickSort" />
+        <module name="FloatToBinaryAndBack" />
+        <module name="MergeIntervals" />
+        <module name="QueueViaStack" />
+        <module name="SortedArrayToMinBinarySearchTree" />
+        <module name="BinaryTreeMaxPathSum" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Abcd" target="13" />
       <module name="AbstractionViaAbstractClass" target="13" />
       <module name="AbstractionViaInterface" target="13" />
       <module name="Aggregation" target="13" />
+      <module name="ArrangeActAssert" target="14" />
       <module name="Association" target="13" />
+      <module name="Assumptions (1)" target="14" />
+      <module name="Assumptions (2)" target="14" />
+      <module name="AVLTreeImpl" target="13" />
+      <module name="BeforeAfterAnnotations (1)" target="14" />
+      <module name="BeforeAfterAnnotations (2)" target="14" />
+      <module name="BestTimeToBuySellStock" target="13" />
+      <module name="BinarySearch" target="13" />
+      <module name="BinarySearchTreeDuplicates" target="13" />
+      <module name="BinarySearchTreeKthLargestElement" target="13" />
+      <module name="BinarySearchTreeSuccessor" target="13" />
+      <module name="BinarySearchTreeSum" target="13" />
+      <module name="BinarySearchTreeTraversal" target="13" />
+      <module name="BinaryTreeBalanced" target="13" />
+      <module name="BinaryTreeCommonAncestor" target="13" />
+      <module name="BinaryTreeDistanceFromLeaf" target="13" />
+      <module name="BinaryTreeIsBST" target="13" />
+      <module name="BinaryTreeLandingReservation" target="13" />
+      <module name="BinaryTreeMaxPathSum" target="13" />
+      <module name="BinaryTreePrintCorners" target="13" />
+      <module name="BinaryTreePrintDiagonal" target="13" />
+      <module name="BinaryTreeRightView" target="13" />
+      <module name="BinaryTreeSpiralTraversal" target="13" />
+      <module name="BinaryTreeSubtree" target="13" />
+      <module name="BinaryTreeTraversal" target="13" />
+      <module name="BinaryTreeVerticalSum" target="13" />
+      <module name="Braces" target="13" />
+      <module name="BreakChocolate" target="13" />
+      <module name="BucketSort" target="13" />
+      <module name="CancelThread" target="13" />
+      <module name="CheckEquality" target="13" />
+      <module name="ChessKnight" target="13" />
       <module name="CircularByteBuffer" target="13" />
+      <module name="ClearBits" target="13" />
+      <module name="Coins" target="13" />
+      <module name="ColorSpots" target="13" />
       <module name="CompileTime" target="13" />
       <module name="Composition" target="13" />
+      <module name="ComputeModuloDivision" target="13" />
+      <module name="ContainerMostWater" target="13" />
+      <module name="Conversion" target="13" />
+      <module name="CountDistinctAbsoluteSortedArray" target="13" />
+      <module name="CountDistinctInSubarray" target="13" />
+      <module name="CountScore3510" target="13" />
       <module name="CovariantMethodOverriding" target="13" />
+      <module name="Deadlock" target="13" />
       <module name="DeckOfCards" target="13" />
+      <module name="DecodingDigitSequence" target="13" />
       <module name="DependencyInversionPrinciple" target="13" />
+      <module name="DirectedGraphPath" target="13" />
+      <module name="DividingBinaries" target="13" />
+      <module name="DoublyLinkedList" target="13" />
+      <module name="DoublyLinkedListOneHead" target="13" />
+      <module name="DoublyLinkedListReverse" target="13" />
+      <module name="DuplicatesInArray" target="13" />
       <module name="Encapsulation" target="13" />
+      <module name="EncodedString" target="13" />
+      <module name="ExecutorAndExecutorService" target="13" />
+      <module name="ExtractIntegers" target="13" />
+      <module name="ExtractSurrogatePairs" target="13" />
       <module name="FileSystem" target="13" />
+      <module name="FindDuplicates" target="13" />
+      <module name="FindNearestMinimum" target="13" />
+      <module name="FindPairsSumEqualK" target="13" />
+      <module name="FiveTowers" target="13" />
+      <module name="FizzBuzz" target="13" />
+      <module name="FloatToBinaryAndBack" target="13" />
+      <module name="GetBitValue" target="13" />
+      <module name="GraphAdjacencyListTraversal" target="13" />
+      <module name="GraphAdjacencyMatrixTraversal" target="13" />
+      <module name="GraphTopologicalSort" target="13" />
+      <module name="GroupSortAnagrams" target="13" />
+      <module name="HanoiTowers" target="13" />
       <module name="HashTable" target="13" />
+      <module name="HeapConnectRopes" target="13" />
+      <module name="HeapSort" target="13" />
+      <module name="HighestColoredTower" target="13" />
+      <module name="HourMinuteAngle" target="13" />
       <module name="Inheritance" target="13" />
       <module name="InterfaceSegregationPrinciple" target="13" />
+      <module name="InterspersedEmptyStrings" target="13" />
+      <module name="IsSymmetricBinaryTree" target="13" />
       <module name="Java8DefaultStaticMethods" target="13" />
+      <module name="Josephus" target="13" />
       <module name="Jukebox" target="13" />
+      <module name="KnightTour" target="13" />
+      <module name="KthNumber357" target="13" />
+      <module name="LinkedListLoopDetection" target="13" />
+      <module name="LinkedListMergeNSortedRecursion" target="13" />
+      <module name="LinkedListMergeTwoSorted" target="13" />
+      <module name="LinkedListMergeTwoSortedRecursion" target="13" />
+      <module name="LinkedListMoveLastToFront" target="13" />
+      <module name="LinkedListNthToLastNode" target="13" />
+      <module name="LinkedListPairwiseSwap" target="13" />
+      <module name="LinkedListPalindrome" target="13" />
+      <module name="LinkedListRearranging" target="13" />
+      <module name="LinkedListRemoveDuplicates" target="13" />
+      <module name="LinkedListRemoveRedundantPath" target="13" />
+      <module name="LinkedListsIntersection" target="13" />
+      <module name="LinkedListSum" target="13" />
       <module name="LiskovSubstitutionPrinciple" target="13" />
+      <module name="ListPerBinaryTreeLevel" target="13" />
+      <module name="LongestConsecutiveSequence" target="13" />
+      <module name="LongestDistinctSubstring" target="13" />
+      <module name="LongestSequence" target="13" />
+      <module name="LRUCache" target="13" />
+      <module name="MagicIndex" target="13" />
+      <module name="Map" target="13" />
+      <module name="MatrixWithZeros" target="13" />
+      <module name="MaxDiffBetweenTwoElements" target="13" />
+      <module name="MaxHeap" target="13" />
+      <module name="MaxHeapToMinHeap" target="13" />
+      <module name="MaximumInCircularArray" target="13" />
+      <module name="MaxMatrixOfOne" target="13" />
+      <module name="MedianOfSortedArrays" target="13" />
+      <module name="MergeIntervals" target="13" />
+      <module name="MergeKSortedArr" target="13" />
+      <module name="MergeSort" target="13" />
+      <module name="MergeSortDoublyLinkedList" target="13" />
+      <module name="MergeSortSinglyLinkedList" target="13" />
+      <module name="MergeTwoSortedArrays" target="13" />
       <module name="MethodHiding" target="13" />
       <module name="MethodOverloding" target="13" />
       <module name="MethodOverriding" target="13" />
+      <module name="MinimumInCircularArray" target="13" />
+      <module name="MinStackConstantTime" target="13" />
+      <module name="MinStackConstantTimeAndSpace" target="13" />
+      <module name="MirrorBinaryTree" target="13" />
       <module name="MovieTicketBooking" target="13" />
+      <module name="MultiplyingBinaries" target="13" />
+      <module name="MultiplyLargeNumbers" target="13" />
+      <module name="MyQueue" target="13" />
+      <module name="MyStack" target="13" />
+      <module name="NestedTests" target="14" />
+      <module name="NextElementSameDigits" target="13" />
+      <module name="NextNumber" target="13" />
+      <module name="NumberDivisibleDigits" target="13" />
+      <module name="NumberWithOneInLR" target="13" />
+      <module name="NutsAndBolts" target="13" />
+      <module name="OddEven" target="13" />
+      <module name="OnceTwiceThrice" target="13" />
+      <module name="OneEditAway" target="13" />
       <module name="OnlineReaderSystem" target="13" />
       <module name="OpenClosedPrinciple" target="13" />
       <module name="OverridingException (1)" target="13" />
       <module name="OverridingException (2)" target="13" />
       <module name="ParkingLot" target="13" />
+      <module name="PeaksAndValleys" target="13" />
+      <module name="Permutations" target="13" />
+      <module name="PetrolBunks" target="13" />
+      <module name="PositionOfFirstBitOfOne" target="13" />
+      <module name="PositionOfFirstOne" target="13" />
+      <module name="PowerSetOfSet" target="13" />
+      <module name="ProducerConsumerQueue" target="13" />
+      <module name="ProducerConsumerWaitNotify" target="13" />
+      <module name="PythagoreanTriplets" target="13" />
+      <module name="QueueIslands" target="13" />
+      <module name="QueueViaStack" target="13" />
+      <module name="QuickSort" target="13" />
+      <module name="RadixSort" target="13" />
+      <module name="RankInStream" target="13" />
+      <module name="RectangleOverlap" target="13" />
+      <module name="RedBlackTreeImpl" target="13" />
+      <module name="ReplaceBits" target="13" />
+      <module name="ReplaceElementWithRank" target="13" />
+      <module name="ReverseLinkedListInGroups" target="13" />
+      <module name="RobotGridAllPaths" target="13" />
+      <module name="RobotGridMaze" target="13" />
+      <module name="RomanNumbers" target="13" />
+      <module name="RotateArrayKTimes" target="13" />
+      <module name="RotateBits" target="13" />
+      <module name="RotateMatrix" target="13" />
+      <module name="RotateString" target="13" />
+      <module name="RunnableAndCallable" target="13" />
       <module name="Runtime" target="13" />
+      <module name="ScheduleOneElevator" target="13" />
+      <module name="SearchInCircularArray" target="13" />
+      <module name="SearchInFullSortedMatrix" target="13" />
+      <module name="SearchInSortedMatrix" target="13" />
+      <module name="SetBitValue" target="13" />
+      <module name="ShortestSafeRoute" target="13" />
       <module name="SingleResponsibilityPrinciple" target="13" />
+      <module name="SinglyLinkedList" target="13" />
+      <module name="SinglyLinkedListOneHead" target="13" />
+      <module name="SmallestNumber" target="13" />
+      <module name="SortArrayBasedOnAnotherArray" target="13" />
+      <module name="SortArraysIn14Ways" target="13" />
+      <module name="SortedArrayToMinBinarySearchTree" target="13" />
+      <module name="SortQueueViaTempQueue" target="13" />
+      <module name="SortQueueWithoutExtraSpace" target="13" />
+      <module name="SortStack" target="13" />
+      <module name="SortStackInPlace" target="13" />
+      <module name="StackBraces" target="13" />
+      <module name="StackHistogramArea" target="13" />
+      <module name="StackOfPlates" target="13" />
+      <module name="StackReverseString" target="13" />
+      <module name="StackViaQueue" target="13" />
+      <module name="Staircase" target="13" />
+      <module name="StockSpan" target="13" />
+      <module name="StringShrinker" target="13" />
+      <module name="SubsetSum" target="13" />
+      <module name="SubtractingBinaries" target="13" />
+      <module name="SummingBinaries" target="13" />
+      <module name="SwapOddEven" target="13" />
+      <module name="SwapTwoIntegers" target="13" />
+      <module name="TestFactory" target="14" />
+      <module name="TestingExceptions (1)" target="14" />
+      <module name="TestingExceptions (2)" target="14" />
+      <module name="TestSuite (1)" target="14" />
+      <module name="TestSuite (2)" target="14" />
+      <module name="TheFallingBall" target="13" />
+      <module name="ThreadLifecycleState" target="13" />
+      <module name="ThreeStacksInOneArray" target="13" />
+      <module name="ThreeStacksInOneArrayFixed" target="13" />
+      <module name="TrapRainWater" target="13" />
       <module name="Tuple" target="13" />
+      <module name="TwoBinaryTreesAreIsomorphic" target="13" />
+      <module name="TwoNonRepeating" target="13" />
+      <module name="UniqueCharacters" target="13" />
+      <module name="UniqueCharactersAZ" target="13" />
+      <module name="UnknownSizeList" target="13" />
       <module name="VendingMachine" target="13" />
+      <module name="VisitToggle100Doors" target="13" />
+      <module name="WordBreak" target="13" />
+      <module name="WordSearch" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>

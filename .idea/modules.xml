@@ -2,37 +2,236 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/AVLTreeImpl/AVLTreeImpl.iml" filepath="$PROJECT_DIR$/Chapter13/AVLTreeImpl/AVLTreeImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/Abcd/Abcd.iml" filepath="$PROJECT_DIR$/Chapter15/Abcd/Abcd.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaAbstractClass/AbstractionViaAbstractClass.iml" filepath="$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaAbstractClass/AbstractionViaAbstractClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaInterface/AbstractionViaInterface.iml" filepath="$PROJECT_DIR$/Chapter06/Abstraction/AbstractionViaInterface/AbstractionViaInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Aggregation/Aggregation.iml" filepath="$PROJECT_DIR$/Chapter06/Aggregation/Aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit5/ArrangeActAssert/ArrangeActAssert.iml" filepath="$PROJECT_DIR$/Chapter18/junit5/ArrangeActAssert/ArrangeActAssert.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Association/Association.iml" filepath="$PROJECT_DIR$/Chapter06/Association/Association.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit4/Assumptions/Assumptions (1).iml" filepath="$PROJECT_DIR$/Chapter18/junit4/Assumptions/Assumptions (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit5/Assumptions/Assumptions (2).iml" filepath="$PROJECT_DIR$/Chapter18/junit5/Assumptions/Assumptions (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit4/BeforeAfterAnnotations/BeforeAfterAnnotations (1).iml" filepath="$PROJECT_DIR$/Chapter18/junit4/BeforeAfterAnnotations/BeforeAfterAnnotations (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit5/BeforeAfterAnnotations/BeforeAfterAnnotations (2).iml" filepath="$PROJECT_DIR$/Chapter18/junit5/BeforeAfterAnnotations/BeforeAfterAnnotations (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/BestTimeToBuySellStock/BestTimeToBuySellStock.iml" filepath="$PROJECT_DIR$/Chapter10/BestTimeToBuySellStock/BestTimeToBuySellStock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Chapter14/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinarySearchTreeDuplicates/BinarySearchTreeDuplicates.iml" filepath="$PROJECT_DIR$/Chapter13/BinarySearchTreeDuplicates/BinarySearchTreeDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinarySearchTreeKthLargestElement/BinarySearchTreeKthLargestElement.iml" filepath="$PROJECT_DIR$/Chapter13/BinarySearchTreeKthLargestElement/BinarySearchTreeKthLargestElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinarySearchTreeSuccessor/BinarySearchTreeSuccessor.iml" filepath="$PROJECT_DIR$/Chapter13/BinarySearchTreeSuccessor/BinarySearchTreeSuccessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinarySearchTreeSum/BinarySearchTreeSum.iml" filepath="$PROJECT_DIR$/Chapter13/BinarySearchTreeSum/BinarySearchTreeSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinarySearchTreeTraversal/BinarySearchTreeTraversal.iml" filepath="$PROJECT_DIR$/Chapter13/BinarySearchTreeTraversal/BinarySearchTreeTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeBalanced/BinaryTreeBalanced.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeBalanced/BinaryTreeBalanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeCommonAncestor/BinaryTreeCommonAncestor.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeCommonAncestor/BinaryTreeCommonAncestor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeDistanceFromLeaf/BinaryTreeDistanceFromLeaf.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeDistanceFromLeaf/BinaryTreeDistanceFromLeaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeIsBST/BinaryTreeIsBST.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeIsBST/BinaryTreeIsBST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeLandingReservation/BinaryTreeLandingReservation.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeLandingReservation/BinaryTreeLandingReservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeMaxPathSum/BinaryTreeMaxPathSum.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeMaxPathSum/BinaryTreeMaxPathSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreePrintCorners/BinaryTreePrintCorners.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreePrintCorners/BinaryTreePrintCorners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreePrintDiagonal/BinaryTreePrintDiagonal.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreePrintDiagonal/BinaryTreePrintDiagonal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeRightView/BinaryTreeRightView.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeRightView/BinaryTreeRightView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeSpiralTraversal/BinaryTreeSpiralTraversal.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeSpiralTraversal/BinaryTreeSpiralTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeSubtree/BinaryTreeSubtree.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeSubtree/BinaryTreeSubtree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeTraversal/BinaryTreeTraversal.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeTraversal/BinaryTreeTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/BinaryTreeVerticalSum/BinaryTreeVerticalSum.iml" filepath="$PROJECT_DIR$/Chapter13/BinaryTreeVerticalSum/BinaryTreeVerticalSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/Braces/Braces.iml" filepath="$PROJECT_DIR$/Chapter08/Braces/Braces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/BreakChocolate/BreakChocolate.iml" filepath="$PROJECT_DIR$/Chapter15/BreakChocolate/BreakChocolate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/BucketSort/BucketSort.iml" filepath="$PROJECT_DIR$/Chapter14/BucketSort/BucketSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter16/CancelThread/CancelThread.iml" filepath="$PROJECT_DIR$/Chapter16/CancelThread/CancelThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/CheckEquality/CheckEquality.iml" filepath="$PROJECT_DIR$/Chapter09/CheckEquality/CheckEquality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/ChessKnight/ChessKnight.iml" filepath="$PROJECT_DIR$/Chapter13/ChessKnight/ChessKnight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/CircularByteBuffer/CircularByteBuffer.iml" filepath="$PROJECT_DIR$/Chapter06/CircularByteBuffer/CircularByteBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/ClearBits/ClearBits.iml" filepath="$PROJECT_DIR$/Chapter09/ClearBits/ClearBits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/Coins/Coins.iml" filepath="$PROJECT_DIR$/Chapter08/Coins/Coins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/ColorSpots/ColorSpots.iml" filepath="$PROJECT_DIR$/Chapter08/ColorSpots/ColorSpots.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Polymorphism/CompileTime/CompileTime.iml" filepath="$PROJECT_DIR$/Chapter06/Polymorphism/CompileTime/CompileTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Composition/Composition.iml" filepath="$PROJECT_DIR$/Chapter06/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/ComputeModuloDivision/ComputeModuloDivision.iml" filepath="$PROJECT_DIR$/Chapter09/ComputeModuloDivision/ComputeModuloDivision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/ContainerMostWater/ContainerMostWater.iml" filepath="$PROJECT_DIR$/Chapter10/ContainerMostWater/ContainerMostWater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/Conversion/Conversion.iml" filepath="$PROJECT_DIR$/Chapter09/Conversion/Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/CountDistinctAbsoluteSortedArray/CountDistinctAbsoluteSortedArray.iml" filepath="$PROJECT_DIR$/Chapter10/CountDistinctAbsoluteSortedArray/CountDistinctAbsoluteSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/CountDistinctInSubarray/CountDistinctInSubarray.iml" filepath="$PROJECT_DIR$/Chapter10/CountDistinctInSubarray/CountDistinctInSubarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/CountScore3510/CountScore3510.iml" filepath="$PROJECT_DIR$/Chapter10/CountScore3510/CountScore3510.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/CovariantMethodOverriding/CovariantMethodOverriding.iml" filepath="$PROJECT_DIR$/Chapter06/CovariantMethodOverriding/CovariantMethodOverriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter16/Deadlock/Deadlock.iml" filepath="$PROJECT_DIR$/Chapter16/Deadlock/Deadlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/DeckOfCards/DeckOfCards.iml" filepath="$PROJECT_DIR$/Chapter06/DeckOfCards/DeckOfCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/DecodingDigitSequence/DecodingDigitSequence.iml" filepath="$PROJECT_DIR$/Chapter15/DecodingDigitSequence/DecodingDigitSequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/DependencyInversionPrinciple/DependencyInversionPrinciple.iml" filepath="$PROJECT_DIR$/Chapter06/DependencyInversionPrinciple/DependencyInversionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/DirectedGraphPath/DirectedGraphPath.iml" filepath="$PROJECT_DIR$/Chapter13/DirectedGraphPath/DirectedGraphPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/DividingBinaries/DividingBinaries.iml" filepath="$PROJECT_DIR$/Chapter09/DividingBinaries/DividingBinaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/Chapter11/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/DoublyLinkedListOneHead/DoublyLinkedListOneHead.iml" filepath="$PROJECT_DIR$/Chapter11/DoublyLinkedListOneHead/DoublyLinkedListOneHead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/DoublyLinkedListReverse/DoublyLinkedListReverse.iml" filepath="$PROJECT_DIR$/Chapter11/DoublyLinkedListReverse/DoublyLinkedListReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/DuplicatesInArray/DuplicatesInArray.iml" filepath="$PROJECT_DIR$/Chapter10/DuplicatesInArray/DuplicatesInArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Chapter06/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/EncodedString/EncodedString.iml" filepath="$PROJECT_DIR$/Chapter10/EncodedString/EncodedString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter16/ExecutorAndExecutorService/ExecutorAndExecutorService.iml" filepath="$PROJECT_DIR$/Chapter16/ExecutorAndExecutorService/ExecutorAndExecutorService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/ExtractIntegers/ExtractIntegers.iml" filepath="$PROJECT_DIR$/Chapter10/ExtractIntegers/ExtractIntegers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/ExtractSurrogatePairs/ExtractSurrogatePairs.iml" filepath="$PROJECT_DIR$/Chapter10/ExtractSurrogatePairs/ExtractSurrogatePairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/FileSystem/FileSystem.iml" filepath="$PROJECT_DIR$/Chapter06/FileSystem/FileSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/FindDuplicates/FindDuplicates.iml" filepath="$PROJECT_DIR$/Chapter09/FindDuplicates/FindDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/FindNearestMinimum/FindNearestMinimum.iml" filepath="$PROJECT_DIR$/Chapter14/FindNearestMinimum/FindNearestMinimum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/FindPairsSumEqualK/FindPairsSumEqualK.iml" filepath="$PROJECT_DIR$/Chapter10/FindPairsSumEqualK/FindPairsSumEqualK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/FiveTowers/FiveTowers.iml" filepath="$PROJECT_DIR$/Chapter08/FiveTowers/FiveTowers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/Chapter15/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/FloatToBinaryAndBack/FloatToBinaryAndBack.iml" filepath="$PROJECT_DIR$/Chapter09/FloatToBinaryAndBack/FloatToBinaryAndBack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/GetBitValue/GetBitValue.iml" filepath="$PROJECT_DIR$/Chapter09/GetBitValue/GetBitValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/GraphAdjacencyListTraversal/GraphAdjacencyListTraversal.iml" filepath="$PROJECT_DIR$/Chapter13/GraphAdjacencyListTraversal/GraphAdjacencyListTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/GraphAdjacencyMatrixTraversal/GraphAdjacencyMatrixTraversal.iml" filepath="$PROJECT_DIR$/Chapter13/GraphAdjacencyMatrixTraversal/GraphAdjacencyMatrixTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/GraphTopologicalSort/GraphTopologicalSort.iml" filepath="$PROJECT_DIR$/Chapter13/GraphTopologicalSort/GraphTopologicalSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/GroupSortAnagrams/GroupSortAnagrams.iml" filepath="$PROJECT_DIR$/Chapter14/GroupSortAnagrams/GroupSortAnagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/HanoiTowers/HanoiTowers.iml" filepath="$PROJECT_DIR$/Chapter08/HanoiTowers/HanoiTowers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/Chapter06/HashTable/HashTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/HeapConnectRopes/HeapConnectRopes.iml" filepath="$PROJECT_DIR$/Chapter13/HeapConnectRopes/HeapConnectRopes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/HeapSort/HeapSort.iml" filepath="$PROJECT_DIR$/Chapter14/HeapSort/HeapSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/HighestColoredTower/HighestColoredTower.iml" filepath="$PROJECT_DIR$/Chapter08/HighestColoredTower/HighestColoredTower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/HourMinuteAngle/HourMinuteAngle.iml" filepath="$PROJECT_DIR$/Chapter15/HourMinuteAngle/HourMinuteAngle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Chapter06/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" filepath="$PROJECT_DIR$/Chapter06/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/InterspersedEmptyStrings/InterspersedEmptyStrings.iml" filepath="$PROJECT_DIR$/Chapter14/InterspersedEmptyStrings/InterspersedEmptyStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/IsSymmetricBinaryTree/IsSymmetricBinaryTree.iml" filepath="$PROJECT_DIR$/Chapter13/IsSymmetricBinaryTree/IsSymmetricBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Java8DefaultStaticMethods/Java8DefaultStaticMethods.iml" filepath="$PROJECT_DIR$/Chapter06/Java8DefaultStaticMethods/Java8DefaultStaticMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/Josephus/Josephus.iml" filepath="$PROJECT_DIR$/Chapter08/Josephus/Josephus.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Jukebox/Jukebox.iml" filepath="$PROJECT_DIR$/Chapter06/Jukebox/Jukebox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/KnightTour/KnightTour.iml" filepath="$PROJECT_DIR$/Chapter08/KnightTour/KnightTour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/KthNumber357/KthNumber357.iml" filepath="$PROJECT_DIR$/Chapter15/KthNumber357/KthNumber357.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/Chapter11/LRUCache/LRUCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListLoopDetection/LinkedListLoopDetection.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListLoopDetection/LinkedListLoopDetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListMergeNSortedRecursion/LinkedListMergeNSortedRecursion.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListMergeNSortedRecursion/LinkedListMergeNSortedRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListMergeTwoSorted/LinkedListMergeTwoSorted.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListMergeTwoSorted/LinkedListMergeTwoSorted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListMergeTwoSortedRecursion/LinkedListMergeTwoSortedRecursion.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListMergeTwoSortedRecursion/LinkedListMergeTwoSortedRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListMoveLastToFront/LinkedListMoveLastToFront.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListMoveLastToFront/LinkedListMoveLastToFront.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListNthToLastNode/LinkedListNthToLastNode.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListNthToLastNode/LinkedListNthToLastNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListPairwiseSwap/LinkedListPairwiseSwap.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListPairwiseSwap/LinkedListPairwiseSwap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListPalindrome/LinkedListPalindrome.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListPalindrome/LinkedListPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListRearranging/LinkedListRearranging.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListRearranging/LinkedListRearranging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListRemoveDuplicates/LinkedListRemoveDuplicates.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListRemoveDuplicates/LinkedListRemoveDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListRemoveRedundantPath/LinkedListRemoveRedundantPath.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListRemoveRedundantPath/LinkedListRemoveRedundantPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListSum/LinkedListSum.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListSum/LinkedListSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/LinkedListsIntersection/LinkedListsIntersection.iml" filepath="$PROJECT_DIR$/Chapter11/LinkedListsIntersection/LinkedListsIntersection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/Chapter06/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/ListPerBinaryTreeLevel/ListPerBinaryTreeLevel.iml" filepath="$PROJECT_DIR$/Chapter13/ListPerBinaryTreeLevel/ListPerBinaryTreeLevel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/LongestConsecutiveSequence/LongestConsecutiveSequence.iml" filepath="$PROJECT_DIR$/Chapter10/LongestConsecutiveSequence/LongestConsecutiveSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/LongestDistinctSubstring/LongestDistinctSubstring.iml" filepath="$PROJECT_DIR$/Chapter10/LongestDistinctSubstring/LongestDistinctSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/LongestSequence/LongestSequence.iml" filepath="$PROJECT_DIR$/Chapter09/LongestSequence/LongestSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/MagicIndex/MagicIndex.iml" filepath="$PROJECT_DIR$/Chapter08/MagicIndex/MagicIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/Map/Map.iml" filepath="$PROJECT_DIR$/Chapter11/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/MatrixWithZeros/MatrixWithZeros.iml" filepath="$PROJECT_DIR$/Chapter10/MatrixWithZeros/MatrixWithZeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/MaxDiffBetweenTwoElements/MaxDiffBetweenTwoElements.iml" filepath="$PROJECT_DIR$/Chapter14/MaxDiffBetweenTwoElements/MaxDiffBetweenTwoElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/MaxHeap/MaxHeap.iml" filepath="$PROJECT_DIR$/Chapter13/MaxHeap/MaxHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/MaxHeapToMinHeap/MaxHeapToMinHeap.iml" filepath="$PROJECT_DIR$/Chapter13/MaxHeapToMinHeap/MaxHeapToMinHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/MaxMatrixOfOne/MaxMatrixOfOne.iml" filepath="$PROJECT_DIR$/Chapter10/MaxMatrixOfOne/MaxMatrixOfOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/MaximumInCircularArray/MaximumInCircularArray.iml" filepath="$PROJECT_DIR$/Chapter10/MaximumInCircularArray/MaximumInCircularArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/MedianOfSortedArrays/MedianOfSortedArrays.iml" filepath="$PROJECT_DIR$/Chapter10/MedianOfSortedArrays/MedianOfSortedArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/MergeIntervals/MergeIntervals.iml" filepath="$PROJECT_DIR$/Chapter10/MergeIntervals/MergeIntervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/MergeKSortedArr/MergeKSortedArr.iml" filepath="$PROJECT_DIR$/Chapter10/MergeKSortedArr/MergeKSortedArr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/Chapter14/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/MergeSortDoublyLinkedList/MergeSortDoublyLinkedList.iml" filepath="$PROJECT_DIR$/Chapter14/MergeSortDoublyLinkedList/MergeSortDoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/MergeSortSinglyLinkedList/MergeSortSinglyLinkedList.iml" filepath="$PROJECT_DIR$/Chapter14/MergeSortSinglyLinkedList/MergeSortSinglyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/MergeTwoSortedArrays/MergeTwoSortedArrays.iml" filepath="$PROJECT_DIR$/Chapter14/MergeTwoSortedArrays/MergeTwoSortedArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/MethodHiding/MethodHiding.iml" filepath="$PROJECT_DIR$/Chapter06/MethodHiding/MethodHiding.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/MethodOverloding/MethodOverloding.iml" filepath="$PROJECT_DIR$/Chapter06/MethodOverloding/MethodOverloding.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/MethodOverriding/MethodOverriding.iml" filepath="$PROJECT_DIR$/Chapter06/MethodOverriding/MethodOverriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/MinStackConstantTime/MinStackConstantTime.iml" filepath="$PROJECT_DIR$/Chapter12/MinStackConstantTime/MinStackConstantTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/MinStackConstantTimeAndSpace/MinStackConstantTimeAndSpace.iml" filepath="$PROJECT_DIR$/Chapter12/MinStackConstantTimeAndSpace/MinStackConstantTimeAndSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/MinimumInCircularArray/MinimumInCircularArray.iml" filepath="$PROJECT_DIR$/Chapter10/MinimumInCircularArray/MinimumInCircularArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/MirrorBinaryTree/MirrorBinaryTree.iml" filepath="$PROJECT_DIR$/Chapter13/MirrorBinaryTree/MirrorBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/MovieTicketBooking/MovieTicketBooking.iml" filepath="$PROJECT_DIR$/Chapter06/MovieTicketBooking/MovieTicketBooking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/MultiplyLargeNumbers/MultiplyLargeNumbers.iml" filepath="$PROJECT_DIR$/Chapter15/MultiplyLargeNumbers/MultiplyLargeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/MultiplyingBinaries/MultiplyingBinaries.iml" filepath="$PROJECT_DIR$/Chapter09/MultiplyingBinaries/MultiplyingBinaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/MyQueue/MyQueue.iml" filepath="$PROJECT_DIR$/Chapter12/MyQueue/MyQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/Chapter12/MyStack/MyStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit5/NestedTests/NestedTests.iml" filepath="$PROJECT_DIR$/Chapter18/junit5/NestedTests/NestedTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/NextElementSameDigits/NextElementSameDigits.iml" filepath="$PROJECT_DIR$/Chapter15/NextElementSameDigits/NextElementSameDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/NextNumber/NextNumber.iml" filepath="$PROJECT_DIR$/Chapter09/NextNumber/NextNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/NumberDivisibleDigits/NumberDivisibleDigits.iml" filepath="$PROJECT_DIR$/Chapter15/NumberDivisibleDigits/NumberDivisibleDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/NumberWithOneInLR/NumberWithOneInLR.iml" filepath="$PROJECT_DIR$/Chapter09/NumberWithOneInLR/NumberWithOneInLR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/NutsAndBolts/NutsAndBolts.iml" filepath="$PROJECT_DIR$/Chapter11/NutsAndBolts/NutsAndBolts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/OddEven/OddEven.iml" filepath="$PROJECT_DIR$/Chapter09/OddEven/OddEven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/OnceTwiceThrice/OnceTwiceThrice.iml" filepath="$PROJECT_DIR$/Chapter09/OnceTwiceThrice/OnceTwiceThrice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/OneEditAway/OneEditAway.iml" filepath="$PROJECT_DIR$/Chapter10/OneEditAway/OneEditAway.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/OnlineReaderSystem/OnlineReaderSystem.iml" filepath="$PROJECT_DIR$/Chapter06/OnlineReaderSystem/OnlineReaderSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/OpenClosedPrinciple/OpenClosedPrinciple.iml" filepath="$PROJECT_DIR$/Chapter06/OpenClosedPrinciple/OpenClosedPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/OverloadingException/OverridingException (1).iml" filepath="$PROJECT_DIR$/Chapter06/OverloadingException/OverridingException (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/OverridingException/OverridingException (2).iml" filepath="$PROJECT_DIR$/Chapter06/OverridingException/OverridingException (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/Chapter06/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/PeaksAndValleys/PeaksAndValleys.iml" filepath="$PROJECT_DIR$/Chapter14/PeaksAndValleys/PeaksAndValleys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/Permutations/Permutations.iml" filepath="$PROJECT_DIR$/Chapter08/Permutations/Permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/PetrolBunks/PetrolBunks.iml" filepath="$PROJECT_DIR$/Chapter10/PetrolBunks/PetrolBunks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/PositionOfFirstBitOfOne/PositionOfFirstBitOfOne.iml" filepath="$PROJECT_DIR$/Chapter09/PositionOfFirstBitOfOne/PositionOfFirstBitOfOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/PositionOfFirstOne/PositionOfFirstOne.iml" filepath="$PROJECT_DIR$/Chapter14/PositionOfFirstOne/PositionOfFirstOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/PowerSetOfSet/PowerSetOfSet.iml" filepath="$PROJECT_DIR$/Chapter09/PowerSetOfSet/PowerSetOfSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter16/ProducerConsumerQueue/ProducerConsumerQueue.iml" filepath="$PROJECT_DIR$/Chapter16/ProducerConsumerQueue/ProducerConsumerQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter16/ProducerConsumerWaitNotify/ProducerConsumerWaitNotify.iml" filepath="$PROJECT_DIR$/Chapter16/ProducerConsumerWaitNotify/ProducerConsumerWaitNotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/PythagoreanTriplets/PythagoreanTriplets.iml" filepath="$PROJECT_DIR$/Chapter15/PythagoreanTriplets/PythagoreanTriplets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/QueueIslands/QueueIslands.iml" filepath="$PROJECT_DIR$/Chapter12/QueueIslands/QueueIslands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/QueueViaStack/QueueViaStack.iml" filepath="$PROJECT_DIR$/Chapter12/QueueViaStack/QueueViaStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/Chapter14/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/RadixSort/RadixSort.iml" filepath="$PROJECT_DIR$/Chapter14/RadixSort/RadixSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/RankInStream/RankInStream.iml" filepath="$PROJECT_DIR$/Chapter14/RankInStream/RankInStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/RectangleOverlap/RectangleOverlap.iml" filepath="$PROJECT_DIR$/Chapter15/RectangleOverlap/RectangleOverlap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/RedBlackTreeImpl/RedBlackTreeImpl.iml" filepath="$PROJECT_DIR$/Chapter13/RedBlackTreeImpl/RedBlackTreeImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/ReplaceBits/ReplaceBits.iml" filepath="$PROJECT_DIR$/Chapter09/ReplaceBits/ReplaceBits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/ReplaceElementWithRank/ReplaceElementWithRank.iml" filepath="$PROJECT_DIR$/Chapter10/ReplaceElementWithRank/ReplaceElementWithRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/ReverseLinkedListInGroups/ReverseLinkedListInGroups.iml" filepath="$PROJECT_DIR$/Chapter11/ReverseLinkedListInGroups/ReverseLinkedListInGroups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/RobotGridAllPaths/RobotGridAllPaths.iml" filepath="$PROJECT_DIR$/Chapter08/RobotGridAllPaths/RobotGridAllPaths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/RobotGridMaze/RobotGridMaze.iml" filepath="$PROJECT_DIR$/Chapter08/RobotGridMaze/RobotGridMaze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/RomanNumbers/RomanNumbers.iml" filepath="$PROJECT_DIR$/Chapter15/RomanNumbers/RomanNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/RotateArrayKTimes/RotateArrayKTimes.iml" filepath="$PROJECT_DIR$/Chapter10/RotateArrayKTimes/RotateArrayKTimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/RotateBits/RotateBits.iml" filepath="$PROJECT_DIR$/Chapter09/RotateBits/RotateBits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/RotateMatrix/RotateMatrix.iml" filepath="$PROJECT_DIR$/Chapter10/RotateMatrix/RotateMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/RotateString/RotateString.iml" filepath="$PROJECT_DIR$/Chapter10/RotateString/RotateString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter16/RunnableAndCallable/RunnableAndCallable.iml" filepath="$PROJECT_DIR$/Chapter16/RunnableAndCallable/RunnableAndCallable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Polymorphism/Runtime/Runtime.iml" filepath="$PROJECT_DIR$/Chapter06/Polymorphism/Runtime/Runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/ScheduleOneElevator/ScheduleOneElevator.iml" filepath="$PROJECT_DIR$/Chapter15/ScheduleOneElevator/ScheduleOneElevator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/SearchInCircularArray/SearchInCircularArray.iml" filepath="$PROJECT_DIR$/Chapter10/SearchInCircularArray/SearchInCircularArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/SearchInFullSortedMatrix/SearchInFullSortedMatrix.iml" filepath="$PROJECT_DIR$/Chapter14/SearchInFullSortedMatrix/SearchInFullSortedMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/SearchInSortedMatrix/SearchInSortedMatrix.iml" filepath="$PROJECT_DIR$/Chapter14/SearchInSortedMatrix/SearchInSortedMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/SetBitValue/SetBitValue.iml" filepath="$PROJECT_DIR$/Chapter09/SetBitValue/SetBitValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/ShortestSafeRoute/ShortestSafeRoute.iml" filepath="$PROJECT_DIR$/Chapter12/ShortestSafeRoute/ShortestSafeRoute.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" filepath="$PROJECT_DIR$/Chapter06/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/SinglyLinkedList/SinglyLinkedList.iml" filepath="$PROJECT_DIR$/Chapter11/SinglyLinkedList/SinglyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/SinglyLinkedListOneHead/SinglyLinkedListOneHead.iml" filepath="$PROJECT_DIR$/Chapter11/SinglyLinkedListOneHead/SinglyLinkedListOneHead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/SmallestNumber/SmallestNumber.iml" filepath="$PROJECT_DIR$/Chapter12/SmallestNumber/SmallestNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/SortArrayBasedOnAnotherArray/SortArrayBasedOnAnotherArray.iml" filepath="$PROJECT_DIR$/Chapter14/SortArrayBasedOnAnotherArray/SortArrayBasedOnAnotherArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/SortArraysIn14Ways/SortArraysIn14Ways.iml" filepath="$PROJECT_DIR$/Chapter14/SortArraysIn14Ways/SortArraysIn14Ways.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/SortQueueViaTempQueue/SortQueueViaTempQueue.iml" filepath="$PROJECT_DIR$/Chapter14/SortQueueViaTempQueue/SortQueueViaTempQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/SortQueueWithoutExtraSpace/SortQueueWithoutExtraSpace.iml" filepath="$PROJECT_DIR$/Chapter14/SortQueueWithoutExtraSpace/SortQueueWithoutExtraSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/SortStack/SortStack.iml" filepath="$PROJECT_DIR$/Chapter14/SortStack/SortStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/SortStackInPlace/SortStackInPlace.iml" filepath="$PROJECT_DIR$/Chapter14/SortStackInPlace/SortStackInPlace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/SortedArrayToMinBinarySearchTree/SortedArrayToMinBinarySearchTree.iml" filepath="$PROJECT_DIR$/Chapter13/SortedArrayToMinBinarySearchTree/SortedArrayToMinBinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/StackBraces/StackBraces.iml" filepath="$PROJECT_DIR$/Chapter12/StackBraces/StackBraces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/StackHistogramArea/StackHistogramArea.iml" filepath="$PROJECT_DIR$/Chapter12/StackHistogramArea/StackHistogramArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/StackOfPlates/StackOfPlates.iml" filepath="$PROJECT_DIR$/Chapter12/StackOfPlates/StackOfPlates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/StackReverseString/StackReverseString.iml" filepath="$PROJECT_DIR$/Chapter12/StackReverseString/StackReverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/StackViaQueue/StackViaQueue.iml" filepath="$PROJECT_DIR$/Chapter12/StackViaQueue/StackViaQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/Staircase/Staircase.iml" filepath="$PROJECT_DIR$/Chapter08/Staircase/Staircase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/StockSpan/StockSpan.iml" filepath="$PROJECT_DIR$/Chapter12/StockSpan/StockSpan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/StringShrinker/StringShrinker.iml" filepath="$PROJECT_DIR$/Chapter10/StringShrinker/StringShrinker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/SubsetSum/SubsetSum.iml" filepath="$PROJECT_DIR$/Chapter08/SubsetSum/SubsetSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/SubtractingBinaries/SubtractingBinaries.iml" filepath="$PROJECT_DIR$/Chapter09/SubtractingBinaries/SubtractingBinaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/SummingBinaries/SummingBinaries.iml" filepath="$PROJECT_DIR$/Chapter09/SummingBinaries/SummingBinaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/SwapOddEven/SwapOddEven.iml" filepath="$PROJECT_DIR$/Chapter09/SwapOddEven/SwapOddEven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/SwapTwoIntegers/SwapTwoIntegers.iml" filepath="$PROJECT_DIR$/Chapter09/SwapTwoIntegers/SwapTwoIntegers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit5/TestFactory/TestFactory.iml" filepath="$PROJECT_DIR$/Chapter18/junit5/TestFactory/TestFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit4/TestSuite/TestSuite (1).iml" filepath="$PROJECT_DIR$/Chapter18/junit4/TestSuite/TestSuite (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit5/TestSuite/TestSuite (2).iml" filepath="$PROJECT_DIR$/Chapter18/junit5/TestSuite/TestSuite (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit4/TestingExceptions/TestingExceptions (1).iml" filepath="$PROJECT_DIR$/Chapter18/junit4/TestingExceptions/TestingExceptions (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter18/junit5/TestingExceptions/TestingExceptions (2).iml" filepath="$PROJECT_DIR$/Chapter18/junit5/TestingExceptions/TestingExceptions (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/TheFallingBall/TheFallingBall.iml" filepath="$PROJECT_DIR$/Chapter08/TheFallingBall/TheFallingBall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter16/ThreadLifecycleState/ThreadLifecycleState.iml" filepath="$PROJECT_DIR$/Chapter16/ThreadLifecycleState/ThreadLifecycleState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/ThreeStacksInOneArray/ThreeStacksInOneArray.iml" filepath="$PROJECT_DIR$/Chapter10/ThreeStacksInOneArray/ThreeStacksInOneArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/ThreeStacksInOneArrayFixed/ThreeStacksInOneArrayFixed.iml" filepath="$PROJECT_DIR$/Chapter10/ThreeStacksInOneArrayFixed/ThreeStacksInOneArrayFixed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/TrapRainWater/TrapRainWater.iml" filepath="$PROJECT_DIR$/Chapter10/TrapRainWater/TrapRainWater.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/Tuple/Tuple.iml" filepath="$PROJECT_DIR$/Chapter06/Tuple/Tuple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13/TwoBinaryTreesAreIsomorphic/TwoBinaryTreesAreIsomorphic.iml" filepath="$PROJECT_DIR$/Chapter13/TwoBinaryTreesAreIsomorphic/TwoBinaryTreesAreIsomorphic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter09/TwoNonRepeating/TwoNonRepeating.iml" filepath="$PROJECT_DIR$/Chapter09/TwoNonRepeating/TwoNonRepeating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/UniqueCharacters/UniqueCharacters.iml" filepath="$PROJECT_DIR$/Chapter10/UniqueCharacters/UniqueCharacters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/UniqueCharactersAZ/UniqueCharactersAZ.iml" filepath="$PROJECT_DIR$/Chapter10/UniqueCharactersAZ/UniqueCharactersAZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/UnknownSizeList/UnknownSizeList.iml" filepath="$PROJECT_DIR$/Chapter14/UnknownSizeList/UnknownSizeList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter06/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/Chapter06/VendingMachine/VendingMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/VisitToggle100Doors/VisitToggle100Doors.iml" filepath="$PROJECT_DIR$/Chapter15/VisitToggle100Doors/VisitToggle100Doors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/WordBreak/WordBreak.iml" filepath="$PROJECT_DIR$/Chapter08/WordBreak/WordBreak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14/WordSearch/WordSearch.iml" filepath="$PROJECT_DIR$/Chapter14/WordSearch/WordSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-interview.iml" filepath="$PROJECT_DIR$/.idea/java-interview.iml" />
     </modules>
   </component>
